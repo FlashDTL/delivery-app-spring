@@ -25,7 +25,7 @@ public class DatabaseUpdator {
         this.repository = repository;
     }
 
-    @Scheduled(fixedDelay = 900_000)
+    @Scheduled(fixedDelay = 300000)
     public void addData() throws JAXBException, IOException {
         URL xmlUrl = new URL("https://www.ilmateenistus.ee/ilma_andmed/xml/observations.php");
         HttpURLConnection http = (HttpURLConnection) xmlUrl.openConnection();
