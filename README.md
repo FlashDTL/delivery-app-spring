@@ -92,4 +92,16 @@ Node.js - Latest stable version
 `npm start`
 
 ## Usage
-Once both the backend and frontend are up and running, you can access the delivery application by visiting http://localhost:3000 in your web browser.
+Once both the backend and frontend are up and running, you can access the delivery application by visiting http://localhost:3000 in your web browser. <br>
+
+<p align="center">
+  Delivery fee calculation <br>
+  <img src="https://i.imgur.com/1n1GYdW.png" alt="Fee" width="400">
+</p>
+
+<p align="center">
+  Weather information <br>
+  <img src="https://i.imgur.com/jVNtKLF.png" alt="Weather" width="400">
+</p>
+
+
